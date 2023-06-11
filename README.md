@@ -7,3 +7,5 @@ To run the kernel, put in the following command:
 but first install the required packages:
 `sudo apt install qemu-system`
 Now you should be able to run the kernel
+
+Heres the original linux repo: https://github.com/torvalds/linux
